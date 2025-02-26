@@ -1,2 +1,2 @@
 # tCall
-View Call Time Android App
+Total Call Time App for Android
