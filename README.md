@@ -1,2 +1,2 @@
 # tCall
-Total Call Time App for Android
+Daily Tracking Call App for Android
